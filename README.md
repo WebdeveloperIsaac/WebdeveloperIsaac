@@ -7,9 +7,9 @@ Web-Developer | Programmer | Learner | Android Developer
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN STACK**
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 👯 I’m looking to collaborate on **Open Source & Paid Projects**
 
 - 💬 Ask me about **Anything**
 
