@@ -19,11 +19,11 @@ Web-Developer |  Student | Programmer | Constant Learner |
 
 ### Connect with me:
 
-[<img align="left" alt="Webdevisaac.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://webdevisaac.com/]
-[<img align="left" alt="Isaac A | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.youtube.com/c/Isaacwebdeveloper]
-[<img align="left" alt="Isaac A | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/WebdevIsaac]
-[<img align="left" alt="Isaac A | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/webdevisaac/]
-[<img align="left" alt="Isaac A | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/cyberwarriorisaac/]
+[<img align="left" alt="Webdevisaac.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://webdevisaac.com/)
+[<img align="left" alt="Isaac A | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/c/Isaacwebdeveloper)
+[<img align="left" alt="Isaac A | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/WebdevIsaac)
+[<img align="left" alt="Isaac A | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/webdevisaac/)
+[<img align="left" alt="Isaac A | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/cyberwarriorisaac/)
 
 <br />
 
