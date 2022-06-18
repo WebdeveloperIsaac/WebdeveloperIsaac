@@ -1,29 +1,29 @@
 <h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Isaac A</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
-Web-Developer | Programmer | Learner | Android Developer
+Web-Developer |  Student | Programmer | Constant Learner |
 
 ?></h3>
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **MERN STACK and DJango** 
 
-- 👯 I’m looking to collaborate on **Open Source & Paid Projects**
+- 👯 I’m looking to collaborate on **Open Source & Paid Projects & A Job**
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **Anything related to Intermediate Web 😂**
 
 - 📫 How to reach me **isaacinfrastructure@gmail.com**
 
-- ⚡ Fun fact **You expected this to be a Fun Fact🍪😂**
+- ⚡ Fun fact **Robert Pattinson is the Best Batman & I loveyou 3000**
 
 ### Connect with me:
 
-[<img align="left" alt="Webdevisaac.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Isaac A | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Isaac A | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Isaac A | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Isaac A | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Webdevisaac.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://webdevisaac.com/]
+[<img align="left" alt="Isaac A | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.youtube.com/c/Isaacwebdeveloper]
+[<img align="left" alt="Isaac A | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/WebdevIsaac]
+[<img align="left" alt="Isaac A | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/webdevisaac/]
+[<img align="left" alt="Isaac A | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/cyberwarriorisaac/]
 
 <br />
 
