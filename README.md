@@ -37,12 +37,12 @@ Web-Developer | Software Devloper Trainee | Student | Constant Learner |
 <br />
 
 <div style="display: flex; flex-direction: row; margin:10px; padding:10px ">
- <img class="img" width=47%  style="margin-right:4px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdeveloperisaac&langs_count=6&layout=compact&custom_title=Isaac%27s%20most%20used%20languages&theme=dark&card_width=350" alt="Web Developer Isaac"/>
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=webdeveloperisaac&show_icons=true&theme=radical" />
+ <img class="img" height=200 style="margin-right:4px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdeveloperisaac&langs_count=6&layout=compact&custom_title=Isaac%27s%20most%20used%20languages&theme=dark&card_width=500" alt="Web Developer Isaac"/>
+ <img class="img" height=200 src="https://github-readme-stats.vercel.app/api?username=webdeveloperisaac&show_icons=true&theme=radical" />
 </div>
 <p style="margin-top:40px;"><img align="Left" src="https://github-readme-streak-stats.herokuapp.com/?user=webdeveloperisaac&theme=dark" alt="webdeveloperisaac" /></p>
 </br>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/webdevisaac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="webdevisaac" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/webdevisaac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="webdevisaac" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15661391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15661391" height="30" width="40" /></a>
