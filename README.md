@@ -37,7 +37,7 @@ Web-Developer | Software Devloper Trainee | Student | Constant Learner |
 <br />
 
 <div style="display: flex; flex-direction: row; margin:10px; padding:10px ">
- <img class="img" height=200 style="margin-right:4px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdeveloperisaac&langs_count=6&layout=compact&custom_title=Isaac%27s%20most%20used%20languages&theme=dark&card_width=500" alt="Web Developer Isaac"/>
+ <img class="img" height=200 style="margin-right:4px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdeveloperisaac&langs_count=5&layout=compact&custom_title=Isaac%27s%20most%20used%20languages&theme=dark&card_width=500&hide=jupyter%20notebook,html" alt="Web Developer Isaac"/>
  <img class="img" height=200 src="https://github-readme-stats.vercel.app/api?username=webdeveloperisaac&show_icons=true&theme=radical" />
 </div>
 <p style="margin-top:40px;"><img align="Left" src="https://github-readme-streak-stats.herokuapp.com/?user=webdeveloperisaac&theme=dark" alt="webdeveloperisaac" /></p>
