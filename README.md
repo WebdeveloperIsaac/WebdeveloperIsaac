@@ -17,7 +17,7 @@
 
 - 🌐 Main Website : **https://webdevisaac.com**
 
-- 🌐 GCP : https://isaaconlie.web.app
+- 🌐 GCP : https://isaaconline.web.app
 
 - 🌐 AWS : https://master.d1oj9qb1duhb3q.amplifyapp.com/#/
 
