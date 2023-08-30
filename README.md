@@ -1,11 +1,13 @@
 <h1 align="center">Hi, I'm Isaac A</h1>
-<h3 align="center">Web-Developer | Software Developer Trainee | Constant Learner |</h3>
+<h3 align="center">| Software Developer | Tech Enthusiast | Constant Learner Little Better than Yesterday|</h3>
 
-- 🌱 I’m currently learning **MERN STACK with Data Structures & Algorithms**
+- 📫 I’m currently Working!!! **So you wont see alot me do a lot of Commitss hereee**
+ 
+- 🌱 I’m also currently learning **Data Structures & Algorithms**
 
 - 🔭 I’m currently working on **E-Commerce Application**
 
-- 👯 I’m looking to collaborate on **Web Based Projects**
+- 👯 I’m looking to collaborate on **React or Angular Based Development Projects**
 
 - 💬 Ask me about **Anything related to Web Development**
 
